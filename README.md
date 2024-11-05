@@ -74,4 +74,3 @@ The project uses a serverless architecture with the following AWS services:
 
 ---
 
-This project is licensed under the MIT License.
